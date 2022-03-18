@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Menubar = () => {
+const Menubar = (props) => {
     return (
         <div>
             <h1>Shopping</h1>
