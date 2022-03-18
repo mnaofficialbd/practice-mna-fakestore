@@ -5,7 +5,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 function App() {
   return (
     <div className="App">
-      <h1>MNA Fakestore</h1>
+      <h1 className='text-success'>MNA Fakestore</h1>
+      <h6 className='text-danger'>An Online Shop</h6>
     </div>
   );
 }
