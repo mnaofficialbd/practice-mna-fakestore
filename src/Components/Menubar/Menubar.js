@@ -5,7 +5,7 @@ const Menubar = () => {
     return (
         <div>
             <div className="container">
-                <div className="row">
+                <div className="row menu">
                     <div className="col-md-2 p-2">
                         logo
                     </div>
