@@ -4,7 +4,6 @@ import './Menuber.css'
 const Menubar = () => {
     return (
         <div>
-            <h2>Menuber</h2>
             <div className="container">
                 <div className="row">
                     <div className="col-md-2 p-2">
